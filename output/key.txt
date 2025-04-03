@@ -1,0 +1,2 @@
+NETLIFY_SITE_ID = 'ae7a1358-0e9d-4cb3-984d-6a94dcbf9d5f'
+NETLIFY_TOKEN = 'nfp_4sMr2AC18qqqMuhxUhbpc5FSY3wmrYzodb9f'
